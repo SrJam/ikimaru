@@ -1,4 +1,4 @@
-# ikimaru
+# Ikimaru
 An OSINT CLI tool desgined to fast track IP Reputation and Geo-locaton look up for Security Analysts.
 
 # Pre-requeriments of Linux
